@@ -7,7 +7,7 @@ It demonstrates the use of **object-oriented programming (OOP)** principles in d
 
 ## 📌 Features
 - Classic **Tic Tac Toe** implementation.  
-- Two-player mode (human vs human OR Human vs Computer).  
+- Two-player mode (human vs human or Human vs Computer).  
 - Input validation to prevent invalid or duplicate moves.  
 - Automatic detection of:
   - Player wins.  
