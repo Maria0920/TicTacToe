@@ -46,11 +46,9 @@ It highlights how OOP can be applied even to simple games to ensure readability,
 - Player 1 (X) - Enter your move (row[1-3] and column[1-3]): 1 1
   
 ```
-X |   |   
----+---+---
-   |   |   
----+---+---
-   |   |   
+1   2   3   4   5   6   7   8
+X |   | O |   |   |   | X |   |
+
 ```
 
 - Player 2 (O) - Enter your move: ...
