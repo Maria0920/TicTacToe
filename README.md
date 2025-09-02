@@ -1,6 +1,6 @@
 # Tic Tac Toe – IFN563 Assignment 2 🎮
 
-This project is a **console-based Tic Tac Toe game** developed as part of **IFN563 (Advanced Object-Oriented Programming)** at QUT.  
+This project is a **console-based Tic Tac Toe game**. 
 It demonstrates the use of **object-oriented programming (OOP)** principles in designing a simple, interactive two-player game.
 
 ---
