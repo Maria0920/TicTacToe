@@ -43,11 +43,12 @@ It demonstrates the use of **object-oriented programming (OOP)** principles in d
 It highlights how OOP can be applied even to simple games to ensure readability, maintainability, and scalability.
 
 📷 Example Gameplay
-Player 1 (X) - Enter your move (row[1-3] and column[1-3]): 1 1
+- Player 1 (X) - Enter your move (row[1-3] and column[1-3]): 1 1
+  
  X |   |   
 ---+---+---
    |   |   
 ---+---+---
    |   |   
 
-Player 2 (O) - Enter your move: ...
+- Player 2 (O) - Enter your move: ...
